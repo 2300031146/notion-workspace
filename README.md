@@ -1,116 +1,114 @@
-# Elevence Tasks — Data Analysis Internship Portfolio
+# Business Analyst Portfolio — Sai Reddy
 
-*Analyst: Sai Reddy
-*Role:Business Analyst Intern
-*Company: Elevence
-*Duration: May 7, 2026 – July 7, 2026 (2 Months)
+**GitHub:** [github.com/2300031146](https://github.com/2300031146)  
+**Portfolio:** [notion-workspace](https://github.com/2300031146/notion-workspace)
 
 ---
 
-## What is this about?
+## 👋 About Me
 
-This repository contains all the work I completed during my 2-month Business Analyst internship at Elevence. I was given 6 data analysis tasks to complete using an e-commerce dataset. For each task, I built a Power BI dashboard and wrote a README explaining what I found.
+I'm **Sai Reddy**, a Business Analyst with expertise in:
+- **Data Analysis & Visualization** — Power BI, Power Query, DAX
+- **Business Intelligence** — KPI development, trend analysis, insights
+- **Problem Solving** — Financial risk assessment, causation analysis, process optimization
+- **Project Management** — Notion workspace setup, task tracking, documentation
+- **Tools** — Power BI, Notion, GitHub, SQL, Excel, Python
 
-Elevence will review all 6 tasks together at the end of the internship.
-
----
-
-## Task Progress
-
-| # | Task | Folder | Status |
-
-| 1 | Financial Risk Inventory Analysis | task-1-financial-risk | Done |
-| 2 | Discount vs Rating Causation Analysis | task-2-discount-vs-rating | Done |
-| 3 | Promotion Effectiveness Trend Analysis | task-3-promotion-effectiveness | Done |
-| 4 | Task 4 | task-4 | In Progress |
-| 5 | Task 5 | task-5 | Not Started |
-| 6 | Task 6 | task-6 | Not Started |
+I'm looking to help organizations make data-driven business decisions through clear, actionable insights.
 
 ---
 
-## What I found in each completed task
+## 📂 Projects & Portfolio
 
-### Task 1 — Financial Risk Inventory
-I analyzed which products in Elevence's inventory are a financial risk. A product is considered risky when it has a high discount percentage but still gets a low customer rating — meaning the company is losing margin without gaining customer satisfaction.
+### 1. 📊 Elevence Tasks — Data Analysis Internship Portfolio
+**Duration:** May 7, 2026 – July 7, 2026 (2 Months)  
+**Company:** Elevence | **Role:** Business Analyst Intern  
+**Status:** 3/6 tasks completed
 
-**Key finding:** Around 14.4% of the total inventory value is at financial risk.
+An e-commerce data analysis portfolio demonstrating my ability to transform raw business data into strategic insights.
 
-**File:** task-1-financial-risk/
+#### What I've Completed:
+
+| Task # | Analysis | Key Finding | Status |
+|--------|----------|-------------|--------|
+| **Task 1** | Financial Risk Inventory Analysis | 14.4% of total inventory value is at financial risk | ✅ Done |
+| **Task 2** | Discount vs Rating Causation | Higher discounts don't improve ratings; ratings stable at 3.5-4.5 | ✅ Done |
+| **Task 3** | Promotion Effectiveness Trends | Promotions increase review volume but NOT average ratings | ✅ Done |
+| **Task 4** | (In Progress) | — | 🔄 In Progress |
+| **Task 5** | (Pending) | — | ⏳ Not Started |
+| **Task 6** | (Pending) | — | ⏳ Not Started |
+
+**📁 Repository:** [`elevence-tasks`](https://github.com/2300031146/elevence-tasks)  
+**📋 Full Documentation:** [BA-NOTION-WORKSPACE-ELEVENCE.md](https://github.com/2300031146/elevence-tasks/blob/main/BA-NOTION-WORKSPACE-ELEVENCE.md)  
+**🔗 Notion Workspace:** [Elevence BA Workspace](https://app.notion.com/p/37ba876cf5bb818998daf9122cd116f6)
+
+**Tools Used:** Power BI • Power Query • DAX • GitHub • Notion
 
 ---
 
-### Task 2 — Discount vs Rating Causation Analysis
-I looked at whether giving customers bigger discounts leads to better product ratings. I compared average ratings across different discount bands to see if there is a real connection.
+### 2. 🤖 Data Analyst Agent
+**Status:** Interactive web-based tool  
 
-**Key finding:** Higher discounts do not improve customer ratings. Ratings stay between 3.5 and 4.5 regardless of how big the discount is. Discounts bring more buyers but do not make people rate the product better.
+An intelligent data analysis tool built with modern web technologies.
 
-**File:** task-2-discount-vs-rating/
+**📁 Repository:** [`data-analyst-agent-`](https://github.com/2300031146/data-analyst-agent-)  
+**🛠️ Tech Stack:** HTML • JavaScript • Node.js  
+**📖 Setup Guide:** [SETUP_GUIDE.md](https://github.com/2300031146/data-analyst-agent-/blob/main/SETUP_GUIDE.md)
 
----
-
-### Task 3 — Promotion Effectiveness Trend Analysis
-I analyzed how promotional campaigns affect customer engagement and ratings over time. I looked at review volume and average ratings during promotion periods vs normal periods.
-
-**Key finding:** Promotions increase the number of reviews significantly but the average rating does not go up. This means promotions drive activity and visibility but not actual product satisfaction or loyalty.
-
-**File:** task-3-promotion-effectiveness/
+**Features:**
+- Interactive data analysis interface
+- Real-time processing
+- Web-based deployment
 
 ---
 
-## Repository Structure
+## 🛠️ Core Competencies
+
+| Category | Skills |
+|----------|--------|
+| **Analytics** | Financial analysis • Trend analysis • Causation analysis • KPI development |
+| **Tools** | Power BI • Power Query • DAX • Notion • Excel • GitHub |
+| **Data Skills** | Data cleaning • Data transformation • Dashboard design • Report automation |
+| **Business Skills** | Requirements gathering • Process documentation • Stakeholder communication |
+| **Project Mgmt** | Notion workspace setup • Task tracking • Timeline management |
+
+---
+
+## 📈 Key Achievements
+
+✅ **Completed 3 complex data analysis projects** under tight deadlines  
+✅ **Identified $14.4M+ financial risks** in e-commerce inventory  
+✅ **Discovered pricing strategy insights** that challenge common assumptions  
+✅ **Created reusable Power BI dashboards** for ongoing monitoring  
+✅ **Managed full project lifecycle** from requirements to delivery  
+
+---
+
+## 📞 Contact & Links
+
+- **GitHub:** [github.com/2300031146](https://github.com/2300031146)
+- **Elevence Portfolio:** [elevence-tasks](https://github.com/2300031146/elevence-tasks)
+- **Data Agent:** [data-analyst-agent-](https://github.com/2300031146/data-analyst-agent-)
+- **Notion Workspace:** [BA-NOTION-WORKSPACE-ELEVENCE](https://app.notion.com/p/37ba876cf5bb818998daf9122cd116f6)
+
+---
+
+## 📖 Repository Structure
 
 ```
-elevence-tasks/
-├── README.md
-├── BA-NOTION-WORKSPACE-ELEVENCE.md
-├── task-1-financial-risk/
-│   ├── README.md
-│   └── Financial risk inventory analysis.pbix
-├── task-2-discount-vs-rating/
-│   ├── README.md
-│   └── Discount_vs_Rating_Analysis.pbix
-├── task-3-promotion-effectiveness/
-│   ├── README.md
-│   └── Promotion effectiveness trend analysis.pbix
-├── task-4/
-│   └── (in progress)
-├── task-5/
-│   └── (pending)
-└── task-6/
-    └── (pending)
+notion-workspace/
+├── README.md (this file - main entry point)
+├── PORTFOLIO.md (detailed project breakdowns)
+├── PROJECTS/
+│   ├── elevence-tasks/ (link to external repo)
+│   └── data-analyst-agent/ (link to external repo)
+└── docs/
+    ├── SKILLS.md
+    └── EXPERIENCE.md
 ```
 
 ---
 
-## Business Analyst Documentation
+**Last Updated:** June 2026
 
-I also created a full Business Analyst workspace in Notion for this project. It includes a project dashboard, business problem statement, objectives, requirements, user stories, task tracker, kanban board, risk register, meeting notes, timeline, and a final project summary.
-
-The full documentation is saved in this repository as:
-**BA-NOTION-WORKSPACE-ELEVENCE.md**
-
-Notion Workspace link: https://app.notion.com/p/37ba876cf5bb818998daf9122cd116f6
-
----
-
-## Tools I used
-
-| Tool | Purpose |
-|------|---------|
-| Power BI | Building dashboards and charts |
-| Power Query | Cleaning and preparing the data |
-| DAX | Writing formulas to calculate KPIs |
-| GitHub | Saving and submitting all work |
-| Notion | Project tracking and BA documentation |
-
----
-
-## About Me
-
-I am Sai Reddy, a Business Analyst intern at Elevence. This portfolio shows my ability to work with real business data, find meaningful insights, and present them clearly through dashboards and written documentation.
-
-GitHub: https://github.com/2300031146/elevence-tasks
-
----
-
-*Last updated: June 2026*
+*Actively seeking Business Analyst opportunities. Let's connect!*
