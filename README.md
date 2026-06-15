@@ -34,7 +34,7 @@ An e-commerce data analysis portfolio demonstrating my ability to transform raw 
 | **Task 1** | Financial Risk Inventory Analysis | 14.4% of total inventory value is at financial risk | ✅ Done |
 | **Task 2** | Discount vs Rating Causation | Higher discounts don't improve ratings; ratings stable at 3.5-4.5 | ✅ Done |
 | **Task 3** | Promotion Effectiveness Trends | Promotions increase review volume but NOT average ratings | ✅ Done |
-| **Task 4** | (In Progress) | — | 🔄 In Progress |
+| **Task 4** | Financial Risk Inventory Analysis | 14.4% of total inventory value is at financial risk | ✅ Done |
 | **Task 5** | (Pending) | — | ⏳ Not Started |
 | **Task 6** | (Pending) | — | ⏳ Not Started |
 
